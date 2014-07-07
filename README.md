@@ -1,4 +1,4 @@
 simple-tcp
 ==========
 
-a simple protocol based on udp
+a simple reliable transport protocol using sockets and UDP.
